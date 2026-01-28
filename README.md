@@ -58,7 +58,7 @@
       <img width="460" height="460" alt="member3" src="https://github.com/user-attachments/assets/cdff07bc-10ae-481e-baaa-ac2a32a1000a" /><br/>
       <b>박태희</b><br/>
       <code>Frontend Developer, Designer</code><br/>
-      <a href="https://github.com/ansrudgh">GitHub</a>
+      <a href="https://github.com/qkrxogmla">GitHub</a>
     </td>
     <td align="center" width="20%">
       <img width="460" height="460" alt="member3" src="https://github.com/user-attachments/assets/4c7033ad-4611-4ffb-8639-980b08df62e9" /><br/>
